@@ -1,0 +1,7 @@
+{
+  "name": "stopImmediatePropagation",
+  "description": "Polyfill for missing Event#stopImmediatePropagation support on older browsers.",
+  "version": "0.1.0",
+  "main": "lib/stopImmediatePropagation.js",
+  "license": "MIT"
+}
