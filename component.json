@@ -1,7 +1,7 @@
 {
-  "name": "stopimmediatepropagation",
-  "description": "Polyfill for missing Event#stopImmediatePropagation support on older browsers.",
-  "version": "0.1.0",
-  "main": "lib/stopImmediatePropagation.js",
-  "license": "MIT"
+	"name": "stopimmediatepropagation",
+	"description": "Polyfill for missing Event#stopImmediatePropagation support on older browsers.",
+	"version": "0.1.0",
+	"main": "lib/stopImmediatePropagation.js",
+	"license": "Creative Commons Attribution 3.0 Unported (CC BY 3.0)"
 }
