@@ -1,7 +1,7 @@
 {
 	"name": "stopimmediatepropagation",
 	"description": "Polyfill for missing Event#stopImmediatePropagation support on older browsers.",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"homepage": "https://github.com/mattcg/stopImmediatePropagation",
 	"main": "lib/stopImmediatePropagation.js",
 	"implements": ["CommonJS/Modules/1.0"],
