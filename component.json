@@ -2,7 +2,7 @@
 	"name": "stopimmediatepropagation",
 	"repo": "mattcg/stopImmediatePropagation",
 	"description": "Polyfill for missing Event#stopImmediatePropagation support on older browsers.",
-	"version": "0.2.0",
+	"version": "0.2.1",
 	"main": "lib/stopImmediatePropagation.js",
 	"scripts": [
 		"lib/stopImmediatePropagation.js"

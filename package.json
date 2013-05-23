@@ -1,16 +1,14 @@
 {
 	"name": "stopimmediatepropagation",
 	"description": "Polyfill for missing Event#stopImmediatePropagation support on older browsers.",
-	"version": "0.2.0",
+	"version": "0.2.1",
 	"homepage": "https://github.com/mattcg/stopImmediatePropagation",
 	"main": "lib/stopImmediatePropagation.js",
 	"implements": ["CommonJS/Modules/1.0"],
-	"repositories": [
-		{
-			"type": "git",
-			"url": "git://github.com/mattcg/stopImmediatePropagation.git"
-		}
-	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/mattcg/stopImmediatePropagation.git"
+	},
 	"contributors": [
 		{
 			"name": "Matthew Caruana Galizia",
